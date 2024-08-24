@@ -1,0 +1,11 @@
+[package]
+name = "client"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.38"
+chrono-tz = "0.9.0"
+colored = "2.1.0"
+lamport = {path = "../lamport"}
+rbtree = "0.2.0"

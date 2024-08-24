@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "lamport",
+    "client"
+, "server"]
+
